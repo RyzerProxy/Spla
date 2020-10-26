@@ -1,5 +1,7 @@
-# My Website
+# What is this?
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/ChrisOwen101/pen/NWrpaoY](https://codepen.io/ChrisOwen101/pen/NWrpaoY).
+This is an example solution for the homework for Git Week 1.
+
+https://github.com/CodeYourFuture/My-CodePen-Website
 
 
